@@ -1,0 +1,2 @@
+https://github.com/nneonneo/sha1collider
+Sha1 was cracked a while back and theres a bunch of example code online. Just take two pdfs from that and add on "A"s until you hit 2017 KiB (sha1 hashes in 64kb chunks so you can add stuff on to both of them to get the same hash)
